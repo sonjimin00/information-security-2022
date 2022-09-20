@@ -91,7 +91,7 @@ def pass_wheels(input, reverse = False):
         input = SETTINGS["WHEELS"][1]["wire"][ord(input) - ord('A')]
         input = SETTINGS["WHEELS"][0]["wire"][ord(input) - ord('A')]
 
-    elif reverse == True:
+    else:
         input = SETTINGS["WHEELS"][0]["wire"][ord(input) - ord('A')]
         input = SETTINGS["WHEELS"][1]["wire"][ord(input) - ord('A')]
         input = SETTINGS["WHEELS"][2]["wire"][ord(input) - ord('A')]
