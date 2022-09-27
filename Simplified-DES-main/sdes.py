@@ -140,6 +140,7 @@ def sdes(text: bitarray, key: bitarray, mode) -> bitarray:
     left = initial_permutation[0:4]
     right = initial_permutation[4:8]
 
+    #ENCRYPT
     if mode == 1:
         round1 = round(right, key1)
         round1 ^= left
@@ -153,6 +154,7 @@ def sdes(text: bitarray, key: bitarray, mode) -> bitarray:
         for i in IP_1:
             result.append(encrypt[i])
 
+    #DECRYPT
     elif mode == 2:
         round1 = round(right, key2)
         round1 ^= left
