@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab75e4c7-9df7-4093-8235-1d7e5e81561d" name="Changes" comment="6주차" />
+    <list default="true" id="ab75e4c7-9df7-4093-8235-1d7e5e81561d" name="Changes" comment="5주차" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,14 +194,7 @@
       <option name="project" value="LOCAL" />
       <updated>1665536976719</updated>
     </task>
-    <task id="LOCAL-00005" summary="6주차">
-      <created>1666024686876</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1666024686876</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,8 +230,7 @@
     <MESSAGE value="3주차" />
     <MESSAGE value="4주차" />
     <MESSAGE value="5주차" />
-    <MESSAGE value="6주차" />
-    <option name="LAST_COMMIT_MESSAGE" value="6주차" />
+    <option name="LAST_COMMIT_MESSAGE" value="5주차" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
